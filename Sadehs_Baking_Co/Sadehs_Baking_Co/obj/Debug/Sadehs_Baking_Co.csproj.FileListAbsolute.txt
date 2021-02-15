@@ -1,0 +1,500 @@
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+D:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CoreCompileInputs.cache
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+F:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CoreCompileInputs.cache
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+E:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+G:\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+C:\Users\ONE1\Desktop\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CoreCompileInputs.cache
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+F:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+G:\USB OF IDO\הנדסת תכנה\Projects\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll.config
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Sadehs_Baking_Co.pdb
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.exe.config
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csc.rsp
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.exe.config
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\csi.rsp
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.Managed.Core.targets
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.AppContext.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Collections.Immutable.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Console.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Compression.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.IO.Pipes.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Reflection.Metadata.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.AccessControl.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Claims.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Security.Principal.Windows.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.ValueTuple.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XmlDocument.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.exe.config
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\vbc.rsp
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\roslyn\VBCSCompiler.exe.config
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csprojAssemblyReference.cache
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CoreCompileInputs.cache
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CopyComplete
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.dll
+F:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.pdb
+G:\הנדסת תכנה\מבוא לאינטרנט\Sadehs_Baking_Co\Sadehs_Baking_Co\obj\Debug\Sadehs_Baking_Co.csproj.CoreCompileInputs.cache

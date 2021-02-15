@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Sadehs_Baking_Co.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Sadeh's Baking Co.</title>
+    <link rel="shortcut icon" type="image/jpg" href="pics/cookie.jpg"  >
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700&display=swap&subset=hebrew" rel="stylesheet">
+    <link href="DropDownMenu.css" rel="stylesheet" />
+    <link href="NavBar.css" rel="stylesheet" />
+    <link href="MainStyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="NavBar.css" rel="stylesheet" />
+    </asp:ContentPlaceHolder>
+    <link href="NavBar.css" rel="stylesheet" />
+    <style>
+        .profileIcon{
+            width:50px;
+            transition:0.4s ease-out;
+        }
+        .profileIcon:hover{
+            opacity:0.7
+        }
+    </style>
+</head>
+<body style="background-image: url('b.jpg'); background-repeat:no-repeat; background-size:cover">
+   
+    <table align="center" style="width:60%;">
+        <tr>
+            <td colspan="5"><img src="Sadeh's%20Baking%20Co.%203.png" style="height:150px"/></td>
+        </tr>
+        <tr>
+            <td style="width:20%">
+                <a href="AboutUs.aspx">קצת עלינו</a>
+            </td>
+            <td style="width:20%">
+                <div class="dropdown">
+                     <a href="#" class="dropbtn">המתכונים שלנו</a>
+                    <div class="dropdown-content">
+                        <a href="WhiteCookie.aspx">עגיות צ'וקלט צ'יפס</a>
+                        <a href="Pancakes.aspx">פנקייקס</a>
+                        <a href="DarkCookie.aspx">עוגיות שוקולד</a>
+                    </div>
+                </div>
+              
+            </td>
+            <td style="width:20%">
+              <a href="גלריה.aspx">גלריה</a>
+            </td>
+            <td style="width:20%">
+                <a href="טופס.aspx">תכתבו לנו</a>
+            </td>
+             <td style="width:20%">
+                <div class="dropdown">
+                     <a href="#" class="dropbtn"> <img src="pics/my-profile-icon-png-.jpg" class="profileIcon"/> </a>
+                    <div class="dropdown-content">
+                        <% if (Session["Login"] == null && Session["Admin"] == null)
+                        {%>
+            
+                            <a href="Login.aspx">התחברות</a>
+                            <a href ="SignUp.aspx">הרשמה</a>
+            
+                        <%}
+                    else
+                     {%>
+                            <a href="Login.aspx">התנתקות</a>
+                     <%}if (Session["Admin"] != null) {%>
+                        
+                        
+                        <a href="AdminPage.aspx">דף מנהל</a>
+                        <% } %>
+                        <% if (Session["Login"] != null)
+                            {
+                                %> <a href="ProfilePage.aspx">עמוד פרופיל</a> <% } %>
+                    </div>
+                </div>
+              
+            
+        </tr>
+    </table>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    <div class="container">
+        Sadeh's Baking Co. כל הזכויות שמורות © לחברת
+    </div>
+     
+</body>
+</html>
